@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="key.css">
+    <title>Keyboard Calculator</title>
+</head>
+<body>
+    <div class="calculator">
+        <div class="display"></div>
+        <input type="text" id="display" disabled>
+        <div class="keys">
+            <button onclick="pressKey('1')">1</button>
+            <button onclick="pressKey('2')">2</button>
+            <button onclick="pressKey('3')">3</button>
+            <button onclick="pressKey('4')">4</button>
+            <button onclick="pressKey('5')">5</button>
+            <button onclick="pressKey('6')">6</button>
+            <button onclick="pressKey('7')">7</button>
+            <button onclick="pressKey('8')">8</button>
+            <button onclick="pressKey('9')">9</button>
+            <button onclick="pressKey('*')">*</button>
+            <button onclick="pressKey('-')">-</button>
+            <button onclick="pressKey('+')">+</button>
+            <button onclick="pressKey('/')">/</button>
+            <button onclick="pressKey('0')">0</button>
+            <button onclick="pressKey('.')">.</button>
+            <button onclick="pressKey('=')">=</button>
+            <button onclick="clearDisplay()">C</button>
+        </div>
+    </div>
+    
+    <script src="key.js"></script>
+</body>
+</html>
