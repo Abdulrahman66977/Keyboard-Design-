@@ -7,8 +7,7 @@ This project is a functional web-based calculator application that mimics a stan
 It is a great example of transforming a UI design project into a practical, interactive utility.
 
  🚀 Live Demo
-
-**[Insert the live URL of your Calculator project here, e.g., `https://shehuabdulrahmdev.github.io/js-calculator-app`]**
+https://github.com/Abdulrahman66977/Keyboard-Design-.git
 
  ✨ Key Features Implemented
 
@@ -35,7 +34,7 @@ This project is a client-side application and does not require a backend server 
 
 1. Clone the Repository:
     bash
-    git clone [Insert your repository URL here, e.g., https://github.com/yourusername/js-calculator-app.git]
+    git clone https://github.com/Abdulrahman66977/Keyboard-Design-.git
   
 2. Open the File:
     Navigate to the project directory and simply open the `index.html` file in any web browser.
