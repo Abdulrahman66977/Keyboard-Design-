@@ -4,10 +4,8 @@
 
 This project is a functional web-based calculator application that mimics a standard numeric keypad. It is built entirely with vanilla JavaScript, HTML, and CSS, demonstrating core frontend skills in DOM manipulation, event handling, and dynamic styling.
 
-It is a great example of transforming a UI design project into a practical, interactive utility.
-
  🚀 Live Demo
-https://github.com/Abdulrahman66977/Keyboard-Design-.git
+* https://github.com/Abdulrahman66977/Keyboard-Design-.git
 
  ✨ Key Features Implemented
 
@@ -33,22 +31,17 @@ Category: ------------->>>> Technologies Used
 This project is a client-side application and does not require a backend server or database to run.
 
 1. Clone the Repository:
-    bash
-    git clone https://github.com/Abdulrahman66977/Keyboard-Design-.git
+   * bash
+   * git clone https://github.com/Abdulrahman66977/Keyboard-Design-.git
   
 2. Open the File:
     Navigate to the project directory and simply open the `index.html` file in any web browser.
 
  📁 Repository Structure
-
-calculator-app-repo/
 1. index.html           HTML structure for the calculator interface
 2. key.css              All CSS styles and animations
 3. key.js               JavaScript logic for all key presses and calculation
 4. README.md            This file
-
-
------
 
     ✍️ Author
 
