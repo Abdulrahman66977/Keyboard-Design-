@@ -38,7 +38,7 @@ This project is a client-side application and does not require a backend server 
     Navigate to the project directory and simply open the `index.html` file in any web browser.
 
  📁 Repository Structure
-1. index.html           HTML structure for the calculator interface
+1. key.html           HTML structure for the calculator interface
 2. key.css              All CSS styles and animations
 3. key.js               JavaScript logic for all key presses and calculation
 4. README.md            This file
